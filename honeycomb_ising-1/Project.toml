@@ -1,0 +1,13 @@
+name = "HoneycombIsing"
+uuid = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"  # Replace with a unique UUID
+version = "0.1.0"
+
+[deps]
+Random = "1.6.1"
+Statistics = "0.18.0"
+
+[extras]
+# Additional packages can be added here if needed
+
+[targets]
+# Specify any targets if applicable
